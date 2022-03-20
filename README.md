@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @augfilip
-- 👀 I’m interested in programming and tennis
+- 👀 I’m interested in web programming.
 - 🌱 I’m currently learning html, css and javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
